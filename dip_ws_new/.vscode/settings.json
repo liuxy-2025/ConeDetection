@@ -1,0 +1,34 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "random": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "cmath": "cpp",
+        "*.ipp": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "any": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/jiao/myuav_ws/devel/lib/python3/dist-packages",
+        "/home/jiao/git/rpg_quadrotor_control_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jiao/myuav_ws/devel/lib/python3/dist-packages",
+        "/home/jiao/git/rpg_quadrotor_control_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

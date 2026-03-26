@@ -1,0 +1,8 @@
+prefix=/home/eaibot/dip_ws_new/devel
+
+Name: exp1
+Description: Description of exp1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
